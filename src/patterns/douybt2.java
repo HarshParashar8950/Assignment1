@@ -10,7 +10,7 @@ public class douybt2 {
 		int nsp=2*n-1;
 		int row=1;
 		
-		int rowvalL=n; 
+		int rowvalL=n;
 		int rowvalR=n;
 		while(row<=2*n+1) {
 //			left Star
