@@ -57,7 +57,7 @@ public class douybt2 {
 			}
 			System.out.println();
 			row++; 
-		}
+		}  
 
 	}
 
