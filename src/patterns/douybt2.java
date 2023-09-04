@@ -56,7 +56,7 @@ public class douybt2 {
 				rowvalR++;
 			}
 			System.out.println();
-			row++;
+			row++; 
 		}
 
 	}
